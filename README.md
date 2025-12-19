@@ -71,6 +71,6 @@ MIT — feel free to fork, star, and use in your portfolio.
 
 
 
-💼 LinkedIn: [Amlan Mohanty](www.linkedin.com/in/aniket-shah-45717)
-- Let’s connect professionally and grow your data career
+💼 LinkedIn: [Aniket Shah](www.linkedin.com/in/aniket-shah-45717)
+
 
