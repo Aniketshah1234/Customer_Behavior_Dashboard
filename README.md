@@ -132,9 +132,7 @@ The Power BI dashboard provides:
 - Subscription distribution  
 - Customer rating insights  
 
-<p align="center">
-  <img src="images/dashboard.png" alt="Customer Behavior Dashboard" width="800"/>
-</p>
+![Customer Behavior Dashboard](Customer.jpeg)
 
 ---
 
